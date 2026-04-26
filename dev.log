@@ -1,0 +1,25 @@
+$ next dev
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://21.0.12.199:3000
+- Environments: .env
+✓ Ready in 284ms
+
+  We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+  	- include was updated to add '.next/dev/types/**/*.ts'
+
+  The following mandatory changes were made to your tsconfig.json:
+
+  	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+
+
+ GET / 200 in 1754ms (next.js: 1629ms, application-code: 125ms)
+ GET /api/vue3 200 in 478ms (next.js: 444ms, application-code: 34ms)
+ GET /api/vue3 200 in 7ms (next.js: 3ms, application-code: 5ms)
+ GET /api/vue3/assets/index-DSIslaMT.css 200 in 728ms (next.js: 702ms, application-code: 26ms)
+ GET /api/vue3/assets/index-DSIslaMT.css 200 in 200ms (next.js: 174ms, application-code: 26ms)
+ GET /api/vue3/assets/index-B24NAIKx.js 200 in 733ms (next.js: 706ms, application-code: 27ms)
+ GET /api/vue3/assets/index-B24NAIKx.js 200 in 205ms (next.js: 178ms, application-code: 27ms)
+ GET / 200 in 27ms (next.js: 3ms, application-code: 24ms)
