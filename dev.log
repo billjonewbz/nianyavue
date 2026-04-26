@@ -1,16 +1,1 @@
 $ next dev
-▲ Next.js 16.2.4 (Turbopack)
-- Local:         http://localhost:3000
-- Network:       http://21.0.12.199:3000
-- Environments: .env
-✓ Ready in 311ms
-
- GET / 200 in 268ms (next.js: 140ms, application-code: 128ms)
- GET /api/vue3 200 in 76ms (next.js: 61ms, application-code: 14ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 513ms (next.js: 500ms, application-code: 13ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 563ms (next.js: 549ms, application-code: 14ms)
- GET / 200 in 34ms (next.js: 3ms, application-code: 31ms)
- GET /api/vue3 200 in 7ms (next.js: 3ms, application-code: 5ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 23ms (next.js: 15ms, application-code: 8ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 9ms (next.js: 3ms, application-code: 6ms)
- GET / 200 in 27ms (next.js: 3ms, application-code: 25ms)
