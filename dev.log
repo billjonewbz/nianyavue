@@ -3,21 +3,11 @@ $ next dev
 - Local:         http://localhost:3000
 - Network:       http://21.0.12.199:3000
 - Environments: .env
-✓ Ready in 314ms
+✓ Ready in 370ms
 
- GET / 200 in 275ms (next.js: 143ms, application-code: 132ms)
- GET /api/vue3 200 in 84ms (next.js: 69ms, application-code: 15ms)
- GET /api/vue3 200 in 11ms (next.js: 3ms, application-code: 7ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 500ms (next.js: 479ms, application-code: 20ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 59ms (next.js: 39ms, application-code: 20ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 550ms (next.js: 528ms, application-code: 22ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 57ms (next.js: 36ms, application-code: 22ms)
- GET / 200 in 39ms (next.js: 4ms, application-code: 36ms)
- GET /api/vue3 200 in 10ms (next.js: 4ms, application-code: 6ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 22ms (next.js: 16ms, application-code: 5ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 7ms (next.js: 2ms, application-code: 5ms)
- GET /api/vue3 200 in 7ms (next.js: 3ms, application-code: 5ms)
- GET /api/vue3/assets/index-DSIslaMT.css 200 in 6ms (next.js: 2ms, application-code: 4ms)
- GET /api/vue3/assets/index-B24NAIKx.js 200 in 25ms (next.js: 20ms, application-code: 6ms)
- GET / 200 in 38ms (next.js: 3ms, application-code: 35ms)
- GET /api/vue3 200 in 6ms (next.js: 2ms, application-code: 4ms)
+ GET / 200 in 902ms (next.js: 772ms, application-code: 131ms)
+ GET /api/vue3 200 in 201ms (next.js: 180ms, application-code: 21ms)
+ GET /api/vue3/assets/index-DSIslaMT.css 200 in 711ms (next.js: 694ms, application-code: 17ms)
+ GET /api/vue3/assets/index-B24NAIKx.js 200 in 706ms (next.js: 687ms, application-code: 19ms)
+ GET / 200 in 37ms (next.js: 10ms, application-code: 26ms)
+ GET / 200 in 24ms (next.js: 1843µs, application-code: 22ms)
